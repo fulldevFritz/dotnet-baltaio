@@ -1,0 +1,14 @@
+/home/fritz/dev/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/fritz/dev/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/fritz/dev/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/fritz/dev/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/fritz/dev/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/fritz/dev/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll

@@ -1,0 +1,14 @@
+/home/fritz/dev/EditorHtml/bin/Debug/net8.0/EditorHtml
+/home/fritz/dev/EditorHtml/bin/Debug/net8.0/EditorHtml.deps.json
+/home/fritz/dev/EditorHtml/bin/Debug/net8.0/EditorHtml.runtimeconfig.json
+/home/fritz/dev/EditorHtml/bin/Debug/net8.0/EditorHtml.dll
+/home/fritz/dev/EditorHtml/bin/Debug/net8.0/EditorHtml.pdb
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfoInputs.cache
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.AssemblyInfo.cs
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.dll
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/refint/EditorHtml.dll
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.pdb
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/EditorHtml.genruntimeconfig.cache
+/home/fritz/dev/EditorHtml/obj/Debug/net8.0/ref/EditorHtml.dll

@@ -1,0 +1,14 @@
+/home/fritz/dev/BaltaExceptions/bin/Debug/net8.0/BaltaExceptions
+/home/fritz/dev/BaltaExceptions/bin/Debug/net8.0/BaltaExceptions.deps.json
+/home/fritz/dev/BaltaExceptions/bin/Debug/net8.0/BaltaExceptions.runtimeconfig.json
+/home/fritz/dev/BaltaExceptions/bin/Debug/net8.0/BaltaExceptions.dll
+/home/fritz/dev/BaltaExceptions/bin/Debug/net8.0/BaltaExceptions.pdb
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.AssemblyInfoInputs.cache
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.AssemblyInfo.cs
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.csproj.CoreCompileInputs.cache
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.dll
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/refint/BaltaExceptions.dll
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.pdb
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/BaltaExceptions.genruntimeconfig.cache
+/home/fritz/dev/BaltaExceptions/obj/Debug/net8.0/ref/BaltaExceptions.dll

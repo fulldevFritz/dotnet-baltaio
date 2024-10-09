@@ -1,0 +1,14 @@
+/home/fritz/dev/BaltaArrays/bin/Debug/net8.0/BaltaArrays
+/home/fritz/dev/BaltaArrays/bin/Debug/net8.0/BaltaArrays.deps.json
+/home/fritz/dev/BaltaArrays/bin/Debug/net8.0/BaltaArrays.runtimeconfig.json
+/home/fritz/dev/BaltaArrays/bin/Debug/net8.0/BaltaArrays.dll
+/home/fritz/dev/BaltaArrays/bin/Debug/net8.0/BaltaArrays.pdb
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.AssemblyInfoInputs.cache
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.AssemblyInfo.cs
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.csproj.CoreCompileInputs.cache
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.dll
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/refint/BaltaArrays.dll
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.pdb
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/BaltaArrays.genruntimeconfig.cache
+/home/fritz/dev/BaltaArrays/obj/Debug/net8.0/ref/BaltaArrays.dll

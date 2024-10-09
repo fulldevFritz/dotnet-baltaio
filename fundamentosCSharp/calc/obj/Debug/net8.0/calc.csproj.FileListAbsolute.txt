@@ -1,0 +1,14 @@
+/home/fritz/dev/calc/bin/Debug/net8.0/calc
+/home/fritz/dev/calc/bin/Debug/net8.0/calc.deps.json
+/home/fritz/dev/calc/bin/Debug/net8.0/calc.runtimeconfig.json
+/home/fritz/dev/calc/bin/Debug/net8.0/calc.dll
+/home/fritz/dev/calc/bin/Debug/net8.0/calc.pdb
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.AssemblyInfoInputs.cache
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.AssemblyInfo.cs
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.csproj.CoreCompileInputs.cache
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.dll
+/home/fritz/dev/calc/obj/Debug/net8.0/refint/calc.dll
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.pdb
+/home/fritz/dev/calc/obj/Debug/net8.0/calc.genruntimeconfig.cache
+/home/fritz/dev/calc/obj/Debug/net8.0/ref/calc.dll

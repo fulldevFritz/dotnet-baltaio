@@ -1,0 +1,14 @@
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/fritz/dev/TextEditor/bin/Debug/net8.0/TextEditor
+/home/fritz/dev/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/fritz/dev/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/fritz/dev/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/fritz/dev/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/fritz/dev/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll

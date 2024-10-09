@@ -1,0 +1,14 @@
+/home/fritz/dev/BaltaNumbers/bin/Debug/net8.0/BaltaNumbers
+/home/fritz/dev/BaltaNumbers/bin/Debug/net8.0/BaltaNumbers.deps.json
+/home/fritz/dev/BaltaNumbers/bin/Debug/net8.0/BaltaNumbers.runtimeconfig.json
+/home/fritz/dev/BaltaNumbers/bin/Debug/net8.0/BaltaNumbers.dll
+/home/fritz/dev/BaltaNumbers/bin/Debug/net8.0/BaltaNumbers.pdb
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.AssemblyInfoInputs.cache
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.AssemblyInfo.cs
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.csproj.CoreCompileInputs.cache
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.dll
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/refint/BaltaNumbers.dll
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.pdb
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/BaltaNumbers.genruntimeconfig.cache
+/home/fritz/dev/BaltaNumbers/obj/Debug/net8.0/ref/BaltaNumbers.dll

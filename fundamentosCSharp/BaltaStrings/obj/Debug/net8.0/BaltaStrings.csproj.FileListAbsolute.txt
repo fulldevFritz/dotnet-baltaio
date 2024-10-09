@@ -1,0 +1,14 @@
+/home/fritz/dev/BaltaStrings/bin/Debug/net8.0/BaltaStrings
+/home/fritz/dev/BaltaStrings/bin/Debug/net8.0/BaltaStrings.deps.json
+/home/fritz/dev/BaltaStrings/bin/Debug/net8.0/BaltaStrings.runtimeconfig.json
+/home/fritz/dev/BaltaStrings/bin/Debug/net8.0/BaltaStrings.dll
+/home/fritz/dev/BaltaStrings/bin/Debug/net8.0/BaltaStrings.pdb
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.AssemblyInfoInputs.cache
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.AssemblyInfo.cs
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.csproj.CoreCompileInputs.cache
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.dll
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/refint/BaltaStrings.dll
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.pdb
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/BaltaStrings.genruntimeconfig.cache
+/home/fritz/dev/BaltaStrings/obj/Debug/net8.0/ref/BaltaStrings.dll
