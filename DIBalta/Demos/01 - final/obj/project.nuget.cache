@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TsYRz/qnuZA=",
+  "dgSpecHash": "BUwCSWRGtpCbnGi+nZv46qmnPIwX7Z39RNJbB8GMzZM2BMj51ocGI6e2kHKAMOorredU/SjLzt0dII/JwhKBeg==",
   "success": true,
   "projectFilePath": "/home/fritz/dev/balta/DIBalta/Demos/01 - final/DependencyStore.csproj",
   "expectedPackageFiles": [
@@ -56,8 +56,6 @@
     "/home/fritz/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
     "/home/fritz/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "/home/fritz/.nuget/packages/system.windows.extensions/5.0.0/system.windows.extensions.5.0.0.nupkg.sha512",
-    "/home/fritz/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "/home/fritz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
     "/home/fritz/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.35/microsoft.netcore.app.host.linux-x64.6.0.35.nupkg.sha512"
   ],
   "logs": [

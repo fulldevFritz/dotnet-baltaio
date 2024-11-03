@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdKJSfE7T20FLWR7JjzK+Vl3MFBmqp5UJmr0N/29r4/tTYbp6Jjlu0SWkJh80tuSGSpEjugmjb5ZTCAzFgLZiw==",
+  "success": true,
+  "projectFilePath": "/home/fritz/dev/balta/DIBalta/Demos/04 - final/DependencyInjectionLifetimeSample.csproj",
+  "expectedPackageFiles": [
+    "/home/fritz/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.35/microsoft.netcore.app.host.linux-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

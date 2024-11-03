@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BNIbyskBJI2JAOrhJQwL+5VHHDlVlTkWFfp4VbPVXbtyrSm/Mu8d7t6qDshyhiT/PLU/lQx+Wopl4hprJYVYbQ==",
+  "success": true,
+  "projectFilePath": "/home/fritz/dev/balta/DIBalta/Demos/05 - final/ResolvingDependencies.csproj",
+  "expectedPackageFiles": [
+    "/home/fritz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/fritz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/fritz/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/fritz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/fritz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/fritz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/fritz/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.35/microsoft.netcore.app.host.linux-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
