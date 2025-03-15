@@ -22,7 +22,7 @@
 
         // Metodos
         void Pagar(){
-            ConsultarSaldoDoCartao()
+            ConsultarSaldoDoCartao();
         }
 
         private void ConsultarSaldoDoCartao(){
