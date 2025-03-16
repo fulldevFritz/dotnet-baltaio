@@ -1,0 +1,72 @@
+# Ignore diretórios de build e dependências
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.app/
+*.ipa
+*.dmg
+*.deb
+*.snap
+*.tar.gz
+*.rpm
+*.msi
+*.nupkg
+*.snupkg
+
+# Cache e logs
+*.log
+*.cache
+*.vs/
+.vscode/
+.idea/
+node_modules/
+dist/
+coverage/
+TestResults/
+.DS_Store
+Thumbs.db
+
+# Configurações locais e segredos
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.bak
+*.orig
+*.seed
+*.pidb
+*.psess
+*.pyc
+*.pyo
+*.pdb
+
+# Arquivos de configuração do Visual Studio
+*.csproj.user
+*.dbmdl
+*.jfm
+*.code-workspace
+
+# Configurações do Rider / Resharper
+*.DotSettings.user
+*.sln.iml
+
+# Migrations e backups temporários
+migrations/
+!migrations/*.cs
+*.bak
+*.sql
+
+# Azure / Docker / Kubernetes
+.publish/
+secrets.json
+appsettings.*.json
+.env
+docker-compose.override.yml
+
+# Arquivos gerados por IDEs e ferramentas
+project.lock.json
+project.assets.json
